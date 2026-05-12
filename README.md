@@ -147,6 +147,7 @@ Page 3 of 15
 
 ***
 
+<!--
 ## Preview Image Setup
 
 Preview image code is intentionally disabled for now. When needed later, place the image here:
@@ -154,6 +155,7 @@ Preview image code is intentionally disabled for now. When needed later, place t
 ```text
 images/preview.png
 ```
+-->
 
 ***
 
