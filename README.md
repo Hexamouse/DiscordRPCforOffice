@@ -161,8 +161,14 @@ images/preview.png
 
 ```text
 DiscordRPCforOffice/
-│
+├── include
+│   ├── Core/
+│   ├── Detectors/
+│   ├── Helpers/
 ├── src/
+│   ├── Core/
+│   ├── Detectors/
+│   ├── Helpers/
 ├── deps/
 │   ├── include/
 │   └── lib/
