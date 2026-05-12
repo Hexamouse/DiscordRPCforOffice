@@ -83,7 +83,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/username/DiscordRPCforOffice.git
+git clone https://github.com/Hexamouse/DiscordRPCforOffice.git
 ```
 
 2. Open:
