@@ -800,7 +800,7 @@ int main() {
     DiscordEventHandlers handlers;
     memset(&handlers, 0, sizeof(handlers));
     handlers.ready = handleDiscordReady;
-    Discord_Initialize("1503853338393837721", &handlers, 1, NULL);
+    Discord_Initialize("YOUR_APPLICATION_ID", &handlers, 1, NULL); // check in discord developers portal
 
     // Init COM
     if (FAILED(CoInitialize(NULL))) {
