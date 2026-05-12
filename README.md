@@ -157,8 +157,6 @@ images/preview.png
 ```
 -->
 
-***
-
 ## Project Structure
 
 ```text
